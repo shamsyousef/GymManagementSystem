@@ -57,15 +57,9 @@ GymManagement/
 
 ---
 
-# 🔐 Authentication
 
-- JWT Authentication
-- Role-based Authorization:
-  - Admin
-  - Trainer
-  - Member
 
----
+
 
 # 📊 Business Rules
 
